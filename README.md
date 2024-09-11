@@ -16,7 +16,7 @@ A beautifully designed Flutter news application that displays trending news acro
 
 <div align="center">
   <img src="newsapp/assets/photo1.png" width="100%" style="margin-bottom: 40px;" />
-  <img src="newsapp/assets/photo2.png" width="100%" />
+  <img src="newsapp/assets/photo2.png" width="90%" />
 </div>
 
 
